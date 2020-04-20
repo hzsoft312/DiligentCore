@@ -1,15 +1,15 @@
 [submodule "ThirdParty/glslang"]
 	path = ThirdParty/glslang
-	url = https://github.com/DiligentGraphics/glslang
+	url = git@github.com:hzsoft312/glslang.git
 [submodule "ThirdParty/SPIRV-Cross"]
 	path = ThirdParty/SPIRV-Cross
-	url = https://github.com/DiligentGraphics/SPIRV-Cross
+	url = git@github.com:hzsoft312/SPIRV-Cross.git
 [submodule "ThirdParty/SPIRV-Tools"]
 	path = ThirdParty/SPIRV-Tools
-	url = https://github.com/DiligentGraphics/SPIRV-Tools
+	url = git@github.com:hzsoft312/SPIRV-Tools.git
 [submodule "ThirdParty/SPIRV-Headers"]
 	path = ThirdParty/SPIRV-Headers
-	url = https://github.com/DiligentGraphics/SPIRV-Headers
+	url = git@github.com:hzsoft312/SPIRV-Headers.git
 [submodule "ThirdParty/googletest"]
 	path = ThirdParty/googletest
-	url = https://github.com/DiligentGraphics/googletest
+	url = git@github.com:hzsoft312/googletest.git

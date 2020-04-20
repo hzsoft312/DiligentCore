@@ -48,6 +48,8 @@ enum RENDER_DEVICE_TYPE
     RENDER_DEVICE_TYPE_METAL           ///< Metal device (not yet implemented)
 };
 
+typedef enum RENDER_DEVICE_TYPE DEVICE_TYPE;
+
 /// Texture sampler capabilities
 struct SamplerCaps
 {
